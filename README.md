@@ -34,7 +34,7 @@ Download the latest and greatest one from [Oracle website](https://www.oracle.co
 
 ### Latest binaries download
 [esp8266.ru](http://esp8266.ru/esplorer/#download)
-[Latest release](#release)
+[Latest release](./releases)
 
 ### Build from sources
 #### Windows
